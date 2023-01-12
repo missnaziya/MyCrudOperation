@@ -1,0 +1,47 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 100px;
+    padding: 50px;
+    font-size: 30px;
+    /* background: rgb(47, 160, 180); */
+    /* border: 2px solid black; */
+    /* height: 200px;
+    width: 700px; */
+}
+
+#form{
+    border: 2px solid black;
+    /* margin: 150px; */
+    padding: 50px;
+}
+#data{
+    border: 2px solid black;
+    /* margin: 150px; */
+    padding: 50px;
+}
+#sbtn{
+    width: 320px;
+    height: 30px;
+    background: rgb(33, 84, 194);
+}
+
+.input{
+    font-size: 25px;
+
+}
+
+#table{
+  border: 5px ;
+  color: black;
+}
+thead{
+    border: 2px solid black;
+}
+
+tr,td,tbody{
+    
+  border: 1px  solid black;
+  border-collapse: collapse;
+}
